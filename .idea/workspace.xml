@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="665156b7-4ee2-4ef1-9e41-e9308d6678b6" name="Default Changelist" comment="" />
+    <list default="true" id="665156b7-4ee2-4ef1-9e41-e9308d6678b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WaterBottle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WaterBottleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,37 +27,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/WaterBottle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+            <state relative-caret-position="300">
+              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
               <folding>
-                <element signature="e#252#253#0" expanded="true" />
-                <element signature="e#290#291#0" expanded="true" />
-                <element signature="e#337#338#0" expanded="true" />
-                <element signature="e#380#381#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
-                <element signature="e#465#466#0" expanded="true" />
+                <element signature="e#90#91#0" expanded="true" />
+                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
+                <element signature="e#304#305#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/CalculatorTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/WaterBottleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+            <state relative-caret-position="510">
+              <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#152#153#0" expanded="true" />
-                <element signature="e#196#197#0" expanded="true" />
-                <element signature="e#280#281#0" expanded="true" />
-                <element signature="e#314#315#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#418#419#0" expanded="true" />
-                <element signature="e#493#494#0" expanded="true" />
-                <element signature="e#523#524#0" expanded="true" />
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -67,11 +72,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/CalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/WaterBottleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/WaterBottle.java" />
       </list>
     </option>
   </component>
@@ -81,6 +91,7 @@
     <option name="width" value="1260" />
     <option name="height" value="777" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -109,7 +120,21 @@
               <item name="week11_day1_hw" type="b2602c69:ProjectViewProjectNode" />
               <item name="week11_day1_hw" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week11_day1_hw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week11_day1_hw" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week11_day1_hw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week11_day1_hw" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -119,6 +144,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
@@ -133,7 +159,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.WaterBottleTest">
     <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="week11_day1_hw" />
       <option name="PACKAGE_NAME" value="" />
@@ -143,8 +169,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WaterBottleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week11_day1_hw" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WaterBottleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.WaterBottleTest" />
         <item itemvalue="JUnit.CalculatorTest" />
       </list>
     </recent_temporary>
@@ -174,6 +210,18 @@
     </history-entry>
     <history-entry file="CalculatorTest - 2019.09.02 at 15h 33m 43s.xml">
       <configuration name="CalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest - 2019.09.02 at 15h 35m 47s.xml">
+      <configuration name="CalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WaterBottleTest - 2019.09.02 at 15h 44m 40s.xml">
+      <configuration name="WaterBottleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WaterBottleTest - 2019.09.02 at 15h 46m 51s.xml">
+      <configuration name="WaterBottleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WaterBottleTest - 2019.09.02 at 15h 48m 24s.xml">
+      <configuration name="WaterBottleTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -208,14 +256,26 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/WaterBottleTest.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+        <state relative-caret-position="330">
+          <caret line="22" column="47" lean-forward="true" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
           <folding>
             <element signature="e#252#253#0" expanded="true" />
             <element signature="e#290#291#0" expanded="true" />
@@ -223,14 +283,16 @@
             <element signature="e#380#381#0" expanded="true" />
             <element signature="e#422#423#0" expanded="true" />
             <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        <state relative-caret-position="308">
+          <caret line="31" column="54" lean-forward="true" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#152#153#0" expanded="true" />
@@ -241,6 +303,41 @@
             <element signature="e#418#419#0" expanded="true" />
             <element signature="e#493#494#0" expanded="true" />
             <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/WaterBottle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/WaterBottleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
           </folding>
         </state>
       </provider>
